@@ -1,0 +1,52 @@
+﻿@page "/manageuserdata"
+@page "/manageuserdata/{UserID}"
+@inherits Pages.Admin.ManageUserBase
+
+
+
+<h3>@PageHeaderText</h3>
+
+                         
+<EditForm Model="@FXUser" OnValidSubmit="HandleValidUserEdit"> 
+    
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+    <div class="modal-body">
+            <div class="mb-3">
+                <label for="firstname" class="col-form-label">First Name</label>
+                <InputText type="text" @bind-Value="FXUser.UserFirstName" class="form-control" id="userFirstName" />
+            </div>
+
+
+            <div class="mb-3">
+                <label for="lastname" class="col-form-label">Last Name</label>
+                <InputText type="text" @bind-Value="FXUser.UserLastName" class="form-control" id="userLastName" />
+            </div>
+
+
+            <div class="mb-3">
+                <label for="email" class="col-form-label">Email Address</label>
+                <InputText type="text" @bind-Value="FXUser.UserEmail" class="form-control" id="userEmail" />
+            </div>
+
+           
+            <div class="mb-3">
+                <label for="location" class="col-form-label">User Location</label>
+               <InputSelect @bind-Value="FXUser.UserLocation" class="form-control" id="userSite">
+                    <option value="">-- Select Location --</option> 
+                    @foreach(var location in Locations)
+                    {
+                    <option value="@location.LocationID">@location.LocationName</option>
+                    }
+                </InputSelect>
+            </div>
+
+            
+    </div>
+
+    <div class="modal-footer">
+        <button type="reset" class="btn btn-secondary" data-bs-dismiss="modal" @onclick="HandleInvalidUserEdit">Cancel</button>
+        <button type="submit" class="btn btn-primary" value="Submit">Submit</button>
+    </div>
+               
+</EditForm>

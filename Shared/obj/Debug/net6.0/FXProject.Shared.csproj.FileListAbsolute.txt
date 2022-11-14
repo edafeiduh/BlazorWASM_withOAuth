@@ -1,0 +1,36 @@
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.deps.json
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.dll
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.pdb
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.csproj.AssemblyReference.cache
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.AssemblyInfoInputs.cache
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.AssemblyInfo.cs
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.dll
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\refint\FXProject.Shared.dll
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.pdb
+C:\Users\IDUH EDAFE\Desktop\Resume Job Application\Make sense CV\PhD Resume for Jobs\Projects\ForexProject\ForexProjectWASM\FXProject\Shared\obj\Debug\net6.0\ref\FXProject.Shared.dll
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.deps.json
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.dll
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.pdb
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.csproj.AssemblyReference.cache
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.AssemblyInfoInputs.cache
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.AssemblyInfo.cs
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.dll
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\refint\FXProject.Shared.dll
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.pdb
+C:\Users\mlgeiduh\OneDrive - Flex\Desktop\FXProject\Shared\obj\Debug\net6.0\ref\FXProject.Shared.dll
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.deps.json
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.dll
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\bin\Debug\net6.0\FXProject.Shared.pdb
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.csproj.AssemblyReference.cache
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.AssemblyInfoInputs.cache
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.AssemblyInfo.cs
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.dll
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\refint\FXProject.Shared.dll
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\FXProject.Shared.pdb
+C:\Users\mlgeiduh\Documents\DataStructures\FXProject\Shared\obj\Debug\net6.0\ref\FXProject.Shared.dll

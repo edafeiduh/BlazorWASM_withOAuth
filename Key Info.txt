@@ -1,0 +1,32 @@
+
+
+The application is built in .NET 6 using Blazor WebAssembly library with a Sever side hosted.
+
+NOTE: This project was SPECIFICALLY created for the purpose of the MSG meeting
+
+NOTE: All default script are left in the application as is and I created the custom scripts on them.
+
+
+PROJET GOAL:
+
+To implement REST API Method operations using .NET, C# and Blazor library
+
+To show seamless and efficient Coding approach for REST API.
+
+To show OAuth Authentication and Authorization implementation on Web Application using OKTA and OIDC policy
+
+To integrate OPEN API solutions into Blazor Web Application using C# 
+
+To show the Usage of SQL VIEWs and TABLEs in a single application
+
+
+
+This solution did not cover 2 main aspect of the web developent namely:
+
+Azure Key Vault to secure the Connection Strings for the database and OKTA Credentials for the applications.
+
+All resources where created using my School email account.
+
+
+	
+	
